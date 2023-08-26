@@ -1,0 +1,5 @@
+C:\Users\yf\source\repos\CAD\CADTOOL\bin\Debug\CADTOOL.dll
+C:\Users\yf\source\repos\CAD\CADTOOL\bin\Debug\CADTOOL.pdb
+C:\Users\yf\source\repos\CAD\CADTOOL\obj\Debug\CADTOOL.csproj.CoreCompileInputs.cache
+C:\Users\yf\source\repos\CAD\CADTOOL\obj\Debug\CADTOOL.dll
+C:\Users\yf\source\repos\CAD\CADTOOL\obj\Debug\CADTOOL.pdb

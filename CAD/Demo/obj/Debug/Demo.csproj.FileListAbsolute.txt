@@ -1,0 +1,8 @@
+C:\Users\yf\source\repos\CAD\Demo\bin\Debug\Demo.dll
+C:\Users\yf\source\repos\CAD\Demo\bin\Debug\Demo.pdb
+C:\Users\yf\source\repos\CAD\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\yf\source\repos\CAD\Demo\obj\Debug\Demo.dll
+C:\Users\yf\source\repos\CAD\Demo\obj\Debug\Demo.pdb
+C:\Users\yf\source\repos\CAD\LoadX\bin\Debug\Demo.dll
+C:\Users\yf\source\repos\CAD\LoadX\bin\Debug\Demo.pdb
+C:\Users\yf\source\repos\CAD\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache

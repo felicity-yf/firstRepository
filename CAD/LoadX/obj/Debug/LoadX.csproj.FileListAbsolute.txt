@@ -1,0 +1,8 @@
+C:\Users\yf\source\repos\CAD\LoadX\bin\Debug\LoadX.dll
+C:\Users\yf\source\repos\CAD\LoadX\bin\Debug\LoadX.pdb
+C:\Users\yf\source\repos\CAD\LoadX\obj\Debug\LoadX.csproj.CoreCompileInputs.cache
+C:\Users\yf\source\repos\CAD\LoadX\obj\Debug\LoadX.dll
+C:\Users\yf\source\repos\CAD\LoadX\obj\Debug\LoadX.pdb
+C:\Users\yf\source\repos\CAD\LoadX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yf\source\repos\CAD\LoadX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yf\source\repos\CAD\LoadX\obj\Debug\LoadX.csproj.CopyComplete
